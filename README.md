@@ -14,7 +14,7 @@ Existing underwater image enhancement methods employ handcrafted prior knowledge
 ```
 
 ## Experimental Data
-The experimental data are publicly available on [Google Drive](https://drive.google.com/drive/folders/1gmhaC5IMwk8vZ_NNH9Jw0ghP0azRKtt3).
+The experimental data is publicly available on [Google Drive](https://drive.google.com/drive/folders/1gmhaC5IMwk8vZ_NNH9Jw0ghP0azRKtt3).
 
 ## Checkpoints
 The pretrained models will be released upon acceptance of the paper.
