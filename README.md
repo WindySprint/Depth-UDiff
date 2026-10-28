@@ -17,7 +17,7 @@ Existing underwater image enhancement methods employ handcrafted prior knowledge
 The experimental data is publicly available on [Google Drive](https://drive.google.com/drive/folders/1gmhaC5IMwk8vZ_NNH9Jw0ghP0azRKtt3).
 
 ## Checkpoints
-The pretrained models will be released upon acceptance of the paper.
+The pretrained models are publicly available on [Google Drive](https://drive.google.com/drive/folders/1KzFr4nOsnLpNHUG29HOegBSbFZ9WCwNV?usp=sharing).
 
 We use the pretrained SAM ViT-H model for depth estimation:
 - **Source code:** [Segment Anything](https://github.com/facebookresearch/segment-anything)
